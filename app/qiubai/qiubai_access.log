@@ -1,0 +1,646 @@
+2017-07-30 22:47:43 qiubai : Beanbun worker 0 is starting ...
+2017-07-30 22:47:43 qiubai : Beanbun worker 1 is starting ...
+2017-07-30 22:47:43 qiubai : Beanbun worker 2 is starting ...
+2017-07-30 22:47:43 qiubai : Beanbun worker 3 is starting ...
+2017-07-30 22:47:43 qiubai : Beanbun worker 4 is starting ...
+2017-07-30 22:47:48 qiubai : Beanbun worker 0 download http://www.qiushibaike.com/ success.
+2017-07-30 22:48:18 qiubai : 
+2017-07-30 22:48:18 qiubai : 
+2017-07-30 22:48:18 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:48:18 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:48:18 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:48:18 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:48:18 qiubai : 
+2017-07-30 22:48:18 qiubai : 
+2017-07-30 22:48:18 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:48:18 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:48:18 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:48:18 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:48:22 qiubai : 
+2017-07-30 22:48:22 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:48:22 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:19 qiubai : Beanbun worker 0 is starting ...
+2017-07-30 22:49:19 qiubai : Beanbun worker 1 is starting ...
+2017-07-30 22:49:19 qiubai : Beanbun worker 2 is starting ...
+2017-07-30 22:49:19 qiubai : Beanbun worker 3 is starting ...
+2017-07-30 22:49:20 qiubai : Beanbun worker 4 is starting ...
+2017-07-30 22:49:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:30 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:30 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:30 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:30 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:35 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:35 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:35 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:35 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:40 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:40 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:40 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:40 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:45 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:45 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:45 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:45 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:50 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:50 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:50 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:50 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:55 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:55 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:55 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:55 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:49:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:00 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:00 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:00 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:00 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:04 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:04 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:04 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:04 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:04 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:04 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:05 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:05 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:05 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:05 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:09 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:09 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:09 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:09 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:09 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:09 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:10 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:10 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:10 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:10 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:14 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:14 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:14 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:14 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:14 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:14 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:15 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:15 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:15 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:15 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:19 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:19 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:19 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:19 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:19 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:19 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:20 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:20 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:20 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:20 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:24 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:25 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:29 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:30 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:30 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:30 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:30 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:34 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:35 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:35 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:35 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:35 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:39 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:40 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:40 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:40 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:40 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:44 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:45 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:45 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:45 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:45 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:49 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:50 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:50 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:50 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:50 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:54 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:55 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:55 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:55 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:55 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:50:59 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:51:00 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:51:00 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:51:00 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325
+2017-07-30 22:51:00 qiubai : Error creating resource: [message] fopen(): Filename cannot be empty
+[file] /mnt/e/code/crawler/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 325

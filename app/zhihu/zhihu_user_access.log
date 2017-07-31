@@ -1,0 +1,944 @@
+2017-07-29 17:32:46 zhihu_user : Beanbun worker 0 is starting ...
+2017-07-29 17:32:46 zhihu_user : Beanbun worker 1 is starting ...
+2017-07-29 17:32:46 zhihu_user : Beanbun worker 2 is starting ...
+2017-07-29 17:32:46 zhihu_user : Beanbun worker 3 is starting ...
+2017-07-29 17:32:46 zhihu_user : Beanbun worker 4 is starting ...
+2017-07-29 17:33:05 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/chen-da-li-11-63/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:05 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/lin-yi-bo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:05 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/lin-yi-bo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:05 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/chen-da-li-11-63/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:06 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/li-ming-wei-90-75/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:21 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/jiang-qian-yi-fan/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:21 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/li-ming-wei-90-75/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:21 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/jiang-qian-yi-fan/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:21 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/laobi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:21 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/laobi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:36 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/zhufree/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:36 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/zhufree/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:36 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/Joku/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:36 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/Joku/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:36 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/freemanzone/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:51 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/freemanzone/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:51 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/leng-yu-69-32/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:51 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/leng-yu-69-32/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:51 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/lin-jia-biao-mei-hk1922/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:33:52 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/lin-jia-biao-mei-hk1922/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:07 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/luoluo-73-1/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:07 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/jericsu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:07 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/jericsu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:07 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/luoluo-73-1/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:07 zhihu_user : Beanbun worker 4 download http://www.zhihu.com/api/v4/members/freemanzone/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:34:22 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wang-yun-xiao-75/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:22 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/wang-yun-xiao-75/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:22 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/penguin_king/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:22 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/penguin_king/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:22 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/xiao-xing-lu-deng-84/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:37 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/xiao-xing-lu-deng-84/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:37 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/sunlanzhi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:37 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/LBQYJS/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:37 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/sunlanzhi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:38 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/LBQYJS/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:52 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/vampire-11-17/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:53 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/vampire-11-17/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:53 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/shao-za-16/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:53 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/shao-za-16/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:34:53 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/RaphaelLee/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:08 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/RaphaelLee/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:08 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/6dkllheg/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:08 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/6dkllheg/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:08 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/you-hu-ye-die/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:08 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/you-hu-ye-die/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:23 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/9siji/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:23 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/9siji/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:23 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/Shimazaki-Yumemi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:23 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/Shimazaki-Yumemi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:24 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/gao-dong-hao-911/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:38 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/gao-dong-hao-911/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:39 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/qianen/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:39 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/qianen/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:39 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/weishiqi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:39 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/weishiqi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:54 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/kishen-sharma/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:54 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/kishen-sharma/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:54 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/pi-xiao-zhi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:54 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/pi-xiao-zhi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:35:54 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/li-jing-wen-40-34/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:09 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/li-jing-wen-40-34/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:09 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/xu-yi-miao-5/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:09 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/xu-yi-miao-5/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:09 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/zixiao-zhao-2/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:10 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/zixiao-zhao-2/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:25 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/freemanzone/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:25 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/freemanzone/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:25 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/excited-vczh/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:25 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/excited-vczh/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:25 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/watcheco/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:40 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/watcheco/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:40 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/jericsu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:40 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/ligangastro/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:40 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/ligangastro/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:40 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/jericsu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:55 zhihu_user : Beanbun worker 0 download http://www.zhihu.com/api/v4/members/linuxzhong-guo/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:36:55 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/huang-jin-75/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:56 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/huang-jin-75/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:56 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/zhao-dan-yang-10/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:36:56 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/zhao-dan-yang-10/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:11 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/zhanba/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:11 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/zhanba/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:11 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/zhang-da-li-23/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:11 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/xiong-zi-jia/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:11 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/zhang-da-li-23/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:26 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/xiong-zi-jia/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:26 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/bigbossjiang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:26 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/bigbossjiang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:26 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/leolou/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:26 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/leolou/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:41 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/xu-long-ze/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:41 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/xu-long-ze/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:41 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/xf-cen/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:42 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/wang-chao-59-71/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:42 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/xf-cen/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:57 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wang-chao-59-71/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:57 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/linuxzhong-guo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:57 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/linuxzhong-guo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:37:57 zhihu_user : Beanbun worker 2 download http://www.zhihu.com/api/v4/members/linuxzhong-guo/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:37:57 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/kerneldeveloper/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:12 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/kerneldeveloper/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:12 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/gaocegege/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:12 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/gaocegege/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:12 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/hev1n/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:12 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/hev1n/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:27 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/dongwang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:27 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/dongwang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:28 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/tonghuix/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:28 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/tonghuix/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:28 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/a-li-yun-yun-qi-she-qu-48/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:43 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/a-li-yun-yun-qi-she-qu-48/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:43 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/jiang-nan-81-43/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:43 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/jiang-nan-81-43/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:43 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/easy-we/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:43 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/easy-we/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:58 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/zhang-lei-77/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:58 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/zhang-lei-77/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:58 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/ucloud-yun-ji-suan/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:59 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/ucloud-yun-ji-suan/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:38:59 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/guujiandonglai/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:14 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/imadper/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:14 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/imadper/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:14 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/lslinso/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:14 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/lslinso/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:14 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/guujiandonglai/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:29 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/linuxzhong-guo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:29 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/linuxzhong-guo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:29 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/tkchu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:29 zhihu_user : Beanbun worker 4 download http://www.zhihu.com/api/v4/members/windleavez/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:39:30 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/tkchu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:44 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/dong-hua-xue-zhu-pa/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:44 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/dong-hua-xue-zhu-pa/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:45 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/wang-bo-17-60/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:45 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/wang-bo-17-60/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:39:45 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wang-guan-87-79/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:00 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/wang-guan-87-79/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:00 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/man-hong-gang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:00 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/man-hong-gang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:00 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/yang-di-di-62/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:00 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/yang-di-di-62/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:15 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/jin-yan-32/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:15 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/jin-yan-32/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:15 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/reedliu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:15 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/reedliu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:16 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/da-sa-bi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:30 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/da-sa-bi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:30 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/xie-zong-xuan-60/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:31 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/issacfeng/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:31 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/xie-zong-xuan-60/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:31 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/issacfeng/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:46 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/fu-bo-wen-89-91/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:46 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/fu-bo-wen-89-91/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:46 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/silangquan/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:46 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/silangquan/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:40:46 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/xisailuo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:01 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/xisailuo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:01 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/maxil-wu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:01 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/maxil-wu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:01 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/you-xi-shi-guang-vgtime-57/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:01 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/you-xi-shi-guang-vgtime-57/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:16 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/zhou-min-21-39/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:16 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/zhou-min-21-39/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:16 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/windleavez/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:17 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/windleavez/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:17 zhihu_user : Beanbun worker 0 download http://www.zhihu.com/api/v4/members/windleavez/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:41:32 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/zebravo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:32 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/zebravo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:32 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/venom-53/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:32 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/venom-53/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:32 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/xhbang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:47 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/xhbang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:47 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/xue-ding-e-zhi-hu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:47 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/xue-ding-e-zhi-hu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:47 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/wang-lin-chong-88/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:41:48 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wang-lin-chong-88/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:02 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/huang-di-ze-tian/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:02 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/huang-di-ze-tian/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:02 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/da-hui-lang-35/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:03 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/da-hui-lang-35/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:03 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/windleavez/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:18 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/windleavez/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:18 zhihu_user : Beanbun worker 1 download http://www.zhihu.com/api/v4/members/cuishite/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:42:18 zhihu_user : Beanbun worker 2 download http://www.zhihu.com/api/v4/members/cuishite/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:42:18 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/he-ming-hui-hui/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:18 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/he-ming-hui-hui/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:33 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/kaifulee/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:33 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/kaifulee/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:33 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/gashero/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:33 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/gashero/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:34 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/aton/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:48 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/aton/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:48 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/xiao-xiao-39-78-92/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:48 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/xiao-xiao-39-78-92/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:49 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/Metaphox/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:42:49 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/Metaphox/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:04 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/zhou-bo-lei/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:04 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/zhou-bo-lei/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:04 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/YJango/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:04 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/YJango/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:04 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/bwlee.sky/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:19 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/loveQt/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:19 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/bwlee.sky/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:19 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/loveQt/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:19 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/coldwings/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:19 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/coldwings/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:34 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/ling-jian-94/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:34 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/ling-jian-94/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:34 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/wang-shu-yi-11/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:34 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/wang-shu-yi-11/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:35 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/zao-shu-ke-ji/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:50 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/zao-shu-ke-ji/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:50 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/datacastle-90/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:50 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/datacastle-90/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:50 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/nmask/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:43:50 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/nmask/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:05 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/raindu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:05 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/quxiaofeng/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:05 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/raindu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:05 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/quxiaofeng/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:05 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/tu-ba-mei-37/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:20 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/tu-ba-mei-37/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:20 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/cuishite/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:20 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/cuishite/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:20 zhihu_user : Beanbun worker 3 download http://www.zhihu.com/api/v4/members/liaoxuefeng/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:44:21 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/kongbaiils/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:36 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/mr-jie-72/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:36 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/kongbaiils/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:36 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/mr-jie-72/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:36 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/luo-ji-gao/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:36 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/luo-ji-gao/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:51 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/diandian77/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `404 Not Found` response:
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrom (truncated...)
+
+2017-07-29 17:44:51 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/diandian77/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `404 Not Found` response:
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrom (truncated...)
+
+2017-07-29 17:44:51 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/diandian77/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `404 Not Found` response:
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrom (truncated...)
+
+2017-07-29 17:44:51 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/diandian77/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `404 Not Found` response:
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrom (truncated...)
+
+2017-07-29 17:44:51 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/liaoxuefeng/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:51 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/liaoxuefeng/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:44:51 zhihu_user : Beanbun worker 0 download http://www.zhihu.com/api/v4/members/liaoxuefeng/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:45:06 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/ji-xu-zhe-zhang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:06 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/ji-xu-zhe-zhang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:06 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/xu-zhe-42/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:06 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/xu-zhe-42/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:07 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/jiang-zhuo-er/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:21 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/jiang-zhuo-er/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:22 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/in-nek/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:22 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/in-nek/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:22 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/giantchen/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:22 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/giantchen/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:37 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/ma-qian-zu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:37 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/ma-qian-zu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:37 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/wangnuonuo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:37 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/wangnuonuo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:37 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/ding-dang-86-96/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:52 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/ding-dang-86-96/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:52 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/he-shi-jun/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:52 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/he-shi-jun/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:52 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/evanyou/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:45:53 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/evanyou/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:07 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/rednaxelafx/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:07 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/rednaxelafx/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:07 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/flytodie/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:08 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/flytodie/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:08 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/stephanieyu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:23 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/stephanieyu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:23 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/sagacity/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:23 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/shen/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:23 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/sagacity/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:23 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/shen/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:38 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/rio/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:38 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/rio/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:38 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/hou-ye-60/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:38 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/hou-ye-60/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:39 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wangxiaofeng/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:53 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/wangxiaofeng/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:53 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/liaoxuefeng/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:53 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/huotaiwen/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:53 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/huotaiwen/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:46:54 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/liaoxuefeng/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:08 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/diandian77/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `404 Not Found` response:
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrom (truncated...)
+
+2017-07-29 17:47:08 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/diandian77/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `404 Not Found` response:
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrom (truncated...)
+
+2017-07-29 17:47:09 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/diandian77/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `404 Not Found` response:
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrom (truncated...)
+
+2017-07-29 17:47:09 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/diandian77/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `404 Not Found` response:
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrom (truncated...)
+
+2017-07-29 17:47:09 zhihu_user : Beanbun worker 3 download http://www.zhihu.com/api/v4/members/li-lei-up/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:47:09 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/danheta/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:09 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/danheta/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:24 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/mu-zi-qu-zi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:24 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/mu-zi-qu-zi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:24 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/li-lei-up/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:24 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/li-lei-up/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:25 zhihu_user : Beanbun worker 0 download http://www.zhihu.com/api/v4/members/li-lei-up/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:47:39 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/satanzhangdi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:39 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/satanzhangdi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:39 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/li-zhi-lin-53/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:39 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/li-zhi-lin-53/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:40 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/915915/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:54 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/915915/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:55 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/nusbrant/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:55 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/nusbrant/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:55 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/zheng-gong-si/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:47:55 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/zheng-gong-si/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:10 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/ji-da-fa-37/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:10 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/ji-da-fa-37/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:10 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/sgai/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:10 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/sgai/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:11 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/5qing6fenpi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:25 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/5qing6fenpi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:25 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/xu-tong-kai/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:25 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/xu-tong-kai/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:25 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/wang-qu-qu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:26 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wang-qu-qu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:40 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/luvddd/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:40 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/luvddd/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:41 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/bai-su-ai/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:41 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/bai-su-ai/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:41 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/crla/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:56 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/crla/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:56 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/EDASP/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:56 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/EDASP/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:56 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/chu-xin-bu-gai-69/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:48:57 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/chu-xin-bu-gai-69/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:11 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/shi-fou-94/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:11 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/shi-fou-94/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:11 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/ding-xiang-yi-sheng/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:11 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/ding-xiang-yi-sheng/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:12 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/ou-yang-hai-long/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:26 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/ou-yang-hai-long/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:26 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/li-lei-up/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:27 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/li-lei-up/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:27 zhihu_user : Beanbun worker 4 download http://www.zhihu.com/api/v4/members/qin-lu-17/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:49:28 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/cao-ming-lu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:42 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/cao-ming-lu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:42 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/she-wei-qi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:42 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/she-wei-qi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:42 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/qin-lu-17/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:43 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/qin-lu-17/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:57 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/xiaomasong/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:57 zhihu_user : Beanbun worker 1 download http://www.zhihu.com/api/v4/members/qin-lu-17/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:49:57 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/xiaomasong/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:57 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/zhong-jia-fu-47/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:49:58 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/zhong-jia-fu-47/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:12 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/lancheo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:12 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/lancheo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:12 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/li-lao-shu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:13 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/li-lao-shu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:14 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/pb612/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:28 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/pb612/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:28 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/xdash/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:28 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/xdash/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:28 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/10082/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:29 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/10082/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:43 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/juan-32/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:43 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/juan-32/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:43 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/hesenbao/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:43 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/hesenbao/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:44 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/sean-yenan/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:58 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/sean-yenan/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:58 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/jiayangqing/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:58 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/jiayangqing/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:59 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/bumian/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:50:59 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/bumian/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:13 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/mandelbrot-11/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:14 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/mandelbrot-11/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:14 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/guan-jian-ming/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:14 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/guan-jian-ming/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:15 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/junyu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:29 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/junyu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:29 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/sijichun/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:29 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/sijichun/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:29 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/qin-lu-17/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:30 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/qin-lu-17/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:44 zhihu_user : Beanbun worker 2 download http://www.zhihu.com/api/v4/members/tongjizhe/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:51:44 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/fiver-fiver/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:44 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/fiver-fiver/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:45 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/kanglando/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:45 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/kanglando/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:51:59 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/superay/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:00 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/superay/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:00 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/zhu-xue-ting-73/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:00 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/zhu-xue-ting-73/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:01 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wei-mao-zeng/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:15 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/wei-mao-zeng/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:15 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/tongjizhe/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:15 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/tongjizhe/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:15 zhihu_user : Beanbun worker 4 download http://www.zhihu.com/api/v4/members/tongjizhe/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:52:16 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wei-mao-zeng/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:30 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/hong-dou-fan-tuan/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:30 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/hong-dou-fan-tuan/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:30 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/chen-bao-liang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:31 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/chen-bao-liang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:31 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/zheng-rui-90/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:46 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/zheng-rui-90/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:46 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/shi-yan-94-61/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:46 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/shi-yan-94-61/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:46 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/laoyao/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:52:47 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/laoyao/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:01 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/zhuzhihzudeguihu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:01 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/zhuzhihzudeguihu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:01 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/pannki/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:01 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/pannki/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:02 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/huang-jing-bo-32/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:16 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/huang-jing-bo-32/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:16 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/yin-bing-jun/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:16 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/yin-bing-jun/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:17 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/lei-de-4/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:17 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/lei-de-4/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:32 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/ba-xian-yi/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:32 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/ba-xian-yi/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:32 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/occur-never/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:32 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/occur-never/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:33 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/cheungyeung_geralt/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:47 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/cheungyeung_geralt/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:47 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/sha-bu-la-ji-2-95/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:47 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/sha-bu-la-ji-2-95/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:47 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/qing-wu-lang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:48 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/qing-wu-lang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:55 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/yang-zhen-sheng-75/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:56 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/yuan-xing-29-63/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:57 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/zhuo-mi-95-9/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:53:58 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/yuan-xing-29-63/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:02 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/zhuo-mi-95-9/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:03 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/zhou-er-b/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `410 Gone` response:
+{"error": {"message": "\u8d44\u6e90\u4e0d\u53ef\u7528", "code": 107, "name": "ResourceNotAvailableException"}}
+
+2017-07-29 17:54:03 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/zhou-er-b/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `410 Gone` response:
+{"error": {"message": "\u8d44\u6e90\u4e0d\u53ef\u7528", "code": 107, "name": "ResourceNotAvailableException"}}
+
+2017-07-29 17:54:07 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/zhou-er-b/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `410 Gone` response:
+{"error": {"message": "\u8d44\u6e90\u4e0d\u53ef\u7528", "code": 107, "name": "ResourceNotAvailableException"}}
+
+2017-07-29 17:54:07 zhihu_user : Client error: `GET https://www.zhihu.com/api/v4/members/zhou-er-b/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0` resulted in a `410 Gone` response:
+{"error": {"message": "\u8d44\u6e90\u4e0d\u53ef\u7528", "code": 107, "name": "ResourceNotAvailableException"}}
+
+2017-07-29 17:54:10 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/yang-zhen-sheng-75/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:11 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/tongjizhe/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:12 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/tongjizhe/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:13 zhihu_user : Beanbun worker 1 download http://www.zhihu.com/api/v4/members/wang-yong-gui-69/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:54:25 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/zwr-82/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:26 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/zwr-82/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:27 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/pang-ci-kuang-mo-41/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:27 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/pang-ci-kuang-mo-41/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:28 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/light-31-73/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:41 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/light-31-73/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:41 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/Uevo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:42 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/Uevo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:43 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/wang-yong-gui-69/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:44 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/wang-yong-gui-69/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:56 zhihu_user : Beanbun worker 0 download http://www.zhihu.com/api/v4/members/wang-yong-gui-69/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:54:56 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/meng-lv-ren-60-55/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:58 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/meng-lv-ren-60-55/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:58 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/xuxiaoteng/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:54:59 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/xuxiaoteng/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:11 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/fang-fang-92-97/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:12 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/fang-fang-92-97/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:13 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/zhang-shuai-47-80/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:13 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/zhang-shuai-47-80/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:14 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/shi-wei-ying/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:27 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/shi-wei-ying/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:27 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/liyaocen/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:28 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/liyaocen/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:29 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/chang-chang-meng-chang-chang-kong/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:30 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/chang-chang-meng-chang-chang-kong/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:42 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/he-jing-92-23/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:42 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/he-jing-92-23/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:44 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/gong-wan-ting-78/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:44 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/gong-wan-ting-78/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:45 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/sama-elly/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:57 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/sama-elly/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:58 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/wei-mi-93-91/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:59 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/wei-mi-93-91/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:55:59 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/ma-ke-fang-zhou/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:00 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/ma-ke-fang-zhou/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:13 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/lengqingru/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:13 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/lengqingru/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:14 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/darrrrcy/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:15 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/darrrrcy/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:16 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/lens-27/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:28 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/lens-27/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:28 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/wang-yong-gui-69/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:30 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/wang-yong-gui-69/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:30 zhihu_user : Beanbun worker 4 download http://www.zhihu.com/api/v4/members/shan-zhi-76/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:56:31 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/he-tao-91-84/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:43 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/he-tao-91-84/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:44 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/shan-zhi-76/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:45 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/shan-zhi-76/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:45 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/jing-tong-jue-xue/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:46 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/jing-tong-jue-xue/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:59 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wa-ka-ka-41/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:56:59 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/wa-ka-ka-41/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:00 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/tan-mei-li-23/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:01 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/tan-mei-li-23/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:02 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/ren-xin-99-55/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:14 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/ren-xin-99-55/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:14 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/shan-zhi-76/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:15 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/shan-zhi-76/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:16 zhihu_user : Beanbun worker 4 download http://www.zhihu.com/api/v4/members/yin-tian-qi-66/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:57:17 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/wu-hong-jia-94/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:29 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wu-hong-jia-94/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:29 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/miao-yan-87/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:31 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/miao-yan-87/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:31 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/che-shang-xian/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:32 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/che-shang-xian/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:45 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/sarahbaby-33/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:45 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/sarahbaby-33/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:46 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/ling-yi-57-29-69/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:47 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/ling-yi-57-29-69/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:57:48 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/yin-tian-qi-66/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:00 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/yin-tian-qi-66/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:00 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/li-yun-jing-56/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:01 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/li-yun-jing-56/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:02 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/q.zhang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:03 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/q.zhang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:15 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/xuxiaofeng1993/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:15 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/xuxiaofeng1993/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:17 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/bai-shi-gang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:17 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/bai-shi-gang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:18 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/DoctorX/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:31 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/DoctorX/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:31 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/cnwxt/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:32 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/cnwxt/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:33 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/RuyuanZhang/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:34 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/RuyuanZhang/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:45 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/owwtrl/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:45 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/owwtrl/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:45 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/madaye/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:48 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/madaye/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:49 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/dhchen/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:57 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/chen-lian-44-79/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:58:59 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/dhchen/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:00 zhihu_user : Beanbun worker 3 download https://www.zhihu.com/api/v4/members/qidianboshi-canada/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:00 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/hazephoebe/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:00 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/hazephoebe/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:00 zhihu_user : Beanbun worker 4 download https://www.zhihu.com/api/v4/members/qidianboshi-canada/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:03 zhihu_user : Beanbun worker 2 download https://www.zhihu.com/api/v4/members/xiang-shuo-de-shi-mo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:03 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/chen-lian-44-79/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:15 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/xiang-shuo-de-shi-mo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:19 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/yin-tian-qi-66/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:31 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/yin-tian-qi-66/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:34 zhihu_user : Beanbun worker 1 download http://www.zhihu.com/api/v4/members/huo-zx/followers?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 17:59:46 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/song-yi-jun-52/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 17:59:50 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/song-yi-jun-52/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:00:01 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/lafengdewoniu/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:00:05 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/lafengdewoniu/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:00:16 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/yu-xing-43-3/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:00:20 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/yu-xing-43-3/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:00:32 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/chen-eason-67-49/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:00:36 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/chen-eason-67-49/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:00:47 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/huang-wei-chao-27/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:00:51 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/huang-wei-chao-27/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:01:02 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/li-de-xin-51-62/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:01:06 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/li-de-xin-51-62/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:01:18 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/huo-zx/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:01:22 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/huo-zx/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:01:33 zhihu_user : Beanbun worker 0 download http://www.zhihu.com/api/v4/members/huo-zx/followees?include=data%5B%2A%5D.following_count%2Cfollower_count&limit=20&offset=20 success.
+Array2017-07-29 18:01:37 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/anyusen/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:01:48 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/anyusen/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:01:52 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/GestapoKGB/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:02:04 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/GestapoKGB/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:02:08 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/wu-si-han-47/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:02:19 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/wu-si-han-47/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:02:23 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/xiao-long-ha-bo/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:02:34 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/xiao-long-ha-bo/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:02:38 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/bai-shu-xu-94/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:02:50 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/bai-shu-xu-94/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:02:53 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/zhang-zheng-ning/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:03:05 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/zhang-zheng-ning/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Arrayget proxy http://203.70.11.186:80 error.
+get proxy http://119.29.103.13:8888 error.
+get proxy http://121.232.145.34:9000 error.
+get proxy http://123.84.13.240:8118 error.
+get proxy https://106.120.175.76:55336 error.
+get proxy https://222.181.26.44:8998 error.
+get proxy https://222.181.61.1:8998 error.
+get proxy http://125.83.193.152:8998 error.
+get proxy https://106.88.115.194:8998 error.
+get proxy https://113.251.83.191:8998 error.
+get proxy https://14.109.112.79:8998 error.
+get proxy https://14.106.87.116:8998 error.
+get proxy https://125.82.226.175:8998 error.
+get proxy https://14.109.98.69:8998 error.
+get proxy https://113.250.106.72:8998 error.
+get proxy http://14.105.88.234:8998 error.
+get proxy https://106.91.44.173:8998 error.
+get proxy https://106.88.6.133:8998 error.
+get proxy http://14.109.124.132:8998 error.
+get proxy https://14.109.96.119:8998 error.
+get proxy https://14.104.22.19:8998 error.
+get proxy https://218.70.208.117:8998 error.
+get proxy https://106.91.28.220:8998 error.
+get proxy https://183.66.18.110:8998 error.
+get proxy https://119.85.28.113:8998 error.
+get proxy https://106.83.54.36:8998 error.
+get proxy http://1.25.184.195:8888 error.
+get proxy https://14.108.120.166:8998 error.
+get proxy https://219.151.207.222:8998 error.
+get proxy https://1.24.150.234:808 error.
+get proxy https://14.105.94.153:8118 error.
+get proxy https://113.251.218.66:8998 error.
+get proxy https://125.85.186.2:8998 error.
+get proxy https://121.32.251.44:80 error.
+get proxy https://121.32.251.43:80 error.
+get proxy https://121.32.251.45:80 error.
+get proxy https://14.106.136.166:8998 error.
+get proxy http://183.239.167.122:8080 error.
+get proxy http://110.18.205.153:808 error.
+get proxy http://183.245.146.208:138 error.
+get proxy http://124.113.197.200:8998 error.
+get proxy https://106.91.35.241:8998 error.
+get proxy https://183.66.81.178:8998 error.
+get proxy https://117.57.58.90:8998 error.
+get proxy http://113.250.104.191:8998 error.
+get proxy https://61.191.41.130:80 error.
+get proxy https://117.68.195.90:8998 error.
+get proxy http://60.169.78.218:808 error.
+get proxy https://219.153.195.137:8998 error.
+get proxy http://183.245.147.51:135 error.
+get proxy https://115.192.87.223:8118 error.
+get proxy https://114.225.227.81:8118 error.
+get proxy http://27.19.92.194:8998 error.
+get proxy http://113.12.97.102:8118 error.
+get proxy https://106.43.100.122:80 error.
+get proxy http://223.19.212.30:80 error.
+get proxy https://120.76.203.31:80 error.
+get proxy http://124.133.230.254:80 error.
+get proxy http://157.0.158.96:8888 error.
+get proxy https://221.238.72.196:8998 error.
+get proxy http://112.126.84.239:8118 error.
+get proxy http://183.61.236.54:3128 error.
+get proxy http://115.159.185.186:8088 error.
+get proxy http://124.88.67.14:843 error.
+get proxy http://124.88.67.24:80 error.
+get proxy http://121.232.146.167:9000 error.
+get proxy http://124.88.67.54:81 error.
+get proxy http://124.88.67.10:80 error.
+get proxy http://61.166.151.82:8080 error.
+get proxy http://115.217.250.229:8888 error.
+get proxy http://124.88.67.81:843 error.
+get proxy https://220.249.101.159:80 error.
+get proxy http://120.52.73.97:8081 error.
+get proxy https://222.243.176.51:8998 error.
+get proxy http://183.61.236.55:3128 error.
+get proxy http://113.5.234.73:9529 error.
+get proxy http://222.33.192.238:8118 error.
+get proxy https://125.31.19.27:80 error.
+get proxy http://124.88.67.39:843 error.
+get proxy http://219.149.247.55:9000 error.
+get proxy http://220.194.213.242:8080 error.
+get proxy http://121.14.6.236:80 error.
+get proxy https://117.166.178.46:8118 error.
+get proxy http://124.88.67.17:843 error.
+get proxy http://120.27.113.72:8888 error.
+get proxy http://49.158.69.157:80 error.
+get proxy http://121.40.108.76:80 error.
+get proxy http://124.88.67.52:843 error.
+get proxy http://122.72.32.75:80 error.
+get proxy http://125.67.147.140:8118 error.
+get proxy https://211.147.240.86:808 error.
+get proxy https://220.166.241.13:8118 error.
+get proxy http://122.72.32.72:80 error.
+get proxy http://175.155.157.213:8118 error.
+get proxy http://113.253.13.205:80 error.
+get proxy http://112.74.72.1:8080 error.
+get proxy http://221.226.82.130:8998 error.
+get proxy http://222.209.241.201:8118 error.
+get proxy http://121.193.143.249:80 error.
+get proxy https://117.79.93.39:8808 error.
+get proxy https://113.26.90.15:8998 error.
+get proxy https://116.19.176.156:8118 error.
+get proxy http://221.216.90.93:8888 error.
+get proxy https://117.57.212.93:8998 error.
+get proxy http://119.28.14.80:81 error.
+get proxy http://211.75.115.20:80 error.
+get proxy http://115.159.48.84:80 error.
+get proxy http://183.165.132.132:8998 error.
+get proxy http://223.18.181.240:80 error.
+get proxy http://124.88.67.18:843 error.
+get proxy https://113.242.212.175:8998 error.
+get proxy https://222.87.124.138:8998 error.
+get proxy http://58.176.46.248:80 error.
+get proxy http://124.88.67.34:81 error.
+get proxy http://117.89.137.178:8998 error.
+get proxy http://218.191.247.51:80 error.
+get proxy http://124.88.67.32:81 error.
+get proxy http://61.160.213.231:138 error.
+get proxy https://27.159.124.121:8118 error.
+get proxy http://153.35.4.130:8118 error.
+get proxy http://122.72.32.88:80 error.
+get proxy http://106.43.114.63:80 error.
+get proxy https://115.237.19.232:8998 error.
+get proxy https://58.208.27.181:8118 error.
+get proxy https://36.48.185.217:8998 error.
+get proxy http://222.186.190.131:137 error.
+get proxy http://218.76.106.78:3128 error.
+get proxy http://60.183.73.166:8998 error.
+get proxy https://58.49.222.210:8998 error.
+get proxy http://120.77.169.244:8118 error.
+get proxy http://175.155.159.200:8118 error.
+get proxy http://27.27.90.197:9000 error.
+get proxy http://113.242.210.24:8998 error.
+get proxy https://49.85.16.3:8998 error.
+get proxy http://183.53.25.111:8998 error.
+get proxy http://60.167.135.189:8118 error.
+get proxy http://119.28.99.246:8998 error.
+get proxy http://222.220.6.8:8998 error.
+get proxy http://117.21.234.96:8080 error.
+get proxy https://182.37.79.242:8118 error.
+get proxy http://119.166.21.177:8888 error.
+get proxy https://119.1.78.168:80 error.
+get proxy http://120.24.63.205:80 error.
+get proxy http://211.140.151.220:80 error.
+get proxy https://125.117.48.8:8998 error.
+get proxy https://115.231.219.202:3128 error.
+get proxy http://183.95.80.165:8080 error.
+get proxy http://211.143.45.216:3128 error.
+get proxy http://222.82.222.242:9999 error.
+2017-07-29 18:03:09 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/lyounger/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Arrayget proxy http://203.70.11.186:80 error.
+get proxy http://119.29.103.13:8888 error.
+get proxy http://121.232.145.34:9000 error.
+get proxy http://123.84.13.240:8118 error.
+get proxy https://106.120.175.76:55336 error.
+get proxy https://222.181.26.44:8998 error.
+get proxy https://222.181.61.1:8998 error.
+get proxy http://125.83.193.152:8998 error.
+get proxy https://106.88.115.194:8998 error.
+get proxy https://113.251.83.191:8998 error.
+get proxy https://14.109.112.79:8998 error.
+get proxy https://14.106.87.116:8998 error.
+get proxy https://125.82.226.175:8998 error.
+get proxy https://14.109.98.69:8998 error.
+get proxy https://113.250.106.72:8998 error.
+get proxy http://14.105.88.234:8998 error.
+get proxy https://106.91.44.173:8998 error.
+get proxy https://106.88.6.133:8998 error.
+get proxy http://14.109.124.132:8998 error.
+get proxy https://14.109.96.119:8998 error.
+get proxy https://14.104.22.19:8998 error.
+get proxy https://218.70.208.117:8998 error.
+get proxy https://106.91.28.220:8998 error.
+get proxy https://183.66.18.110:8998 error.
+get proxy https://119.85.28.113:8998 error.
+get proxy https://106.83.54.36:8998 error.
+get proxy http://1.25.184.195:8888 error.
+get proxy https://14.108.120.166:8998 error.
+get proxy https://219.151.207.222:8998 error.
+get proxy https://1.24.150.234:808 error.
+get proxy https://14.105.94.153:8118 error.
+get proxy https://113.251.218.66:8998 error.
+get proxy https://125.85.186.2:8998 error.
+get proxy https://121.32.251.44:80 error.
+get proxy https://121.32.251.43:80 error.
+get proxy https://121.32.251.45:80 error.
+get proxy https://14.106.136.166:8998 error.
+get proxy http://183.239.167.122:8080 error.
+get proxy http://110.18.205.153:808 error.
+get proxy http://183.245.146.208:138 error.
+get proxy http://124.113.197.200:8998 error.
+get proxy https://106.91.35.241:8998 error.
+get proxy https://183.66.81.178:8998 error.
+get proxy https://117.57.58.90:8998 error.
+get proxy http://113.250.104.191:8998 error.
+get proxy https://61.191.41.130:80 error.
+get proxy https://117.68.195.90:8998 error.
+get proxy http://60.169.78.218:808 error.
+get proxy https://219.153.195.137:8998 error.
+get proxy http://183.245.147.51:135 error.
+get proxy https://115.192.87.223:8118 error.
+get proxy https://114.225.227.81:8118 error.
+get proxy http://27.19.92.194:8998 error.
+get proxy http://113.12.97.102:8118 error.
+get proxy https://106.43.100.122:80 error.
+get proxy http://223.19.212.30:80 error.
+get proxy https://120.76.203.31:80 error.
+get proxy http://124.133.230.254:80 error.
+get proxy http://157.0.158.96:8888 error.
+get proxy https://221.238.72.196:8998 error.
+get proxy http://112.126.84.239:8118 error.
+get proxy http://183.61.236.54:3128 error.
+get proxy http://115.159.185.186:8088 error.
+get proxy http://124.88.67.14:843 error.
+get proxy http://124.88.67.24:80 error.
+get proxy http://121.232.146.167:9000 error.
+get proxy http://124.88.67.54:81 error.
+get proxy http://124.88.67.10:80 error.
+get proxy http://61.166.151.82:8080 error.
+get proxy http://115.217.250.229:8888 error.
+get proxy http://124.88.67.81:843 error.
+get proxy https://220.249.101.159:80 error.
+get proxy http://120.52.73.97:8081 error.
+get proxy https://222.243.176.51:8998 error.
+get proxy http://183.61.236.55:3128 error.
+get proxy http://113.5.234.73:9529 error.
+get proxy http://222.33.192.238:8118 error.
+get proxy https://125.31.19.27:80 error.
+get proxy http://124.88.67.39:843 error.
+get proxy http://219.149.247.55:9000 error.
+get proxy http://220.194.213.242:8080 error.
+get proxy http://121.14.6.236:80 error.
+get proxy https://117.166.178.46:8118 error.
+get proxy http://124.88.67.17:843 error.
+get proxy http://120.27.113.72:8888 error.
+get proxy http://49.158.69.157:80 error.
+get proxy http://121.40.108.76:80 error.
+get proxy http://124.88.67.52:843 error.
+get proxy http://122.72.32.75:80 error.
+get proxy http://125.67.147.140:8118 error.
+get proxy https://211.147.240.86:808 error.
+get proxy https://220.166.241.13:8118 error.
+get proxy http://122.72.32.72:80 error.
+get proxy http://175.155.157.213:8118 error.
+get proxy http://113.253.13.205:80 error.
+get proxy http://112.74.72.1:8080 error.
+get proxy http://221.226.82.130:8998 error.
+get proxy http://222.209.241.201:8118 error.
+get proxy http://121.193.143.249:80 error.
+get proxy https://117.79.93.39:8808 error.
+get proxy https://113.26.90.15:8998 error.
+get proxy https://116.19.176.156:8118 error.
+get proxy http://221.216.90.93:8888 error.
+get proxy https://117.57.212.93:8998 error.
+get proxy http://119.28.14.80:81 error.
+get proxy http://211.75.115.20:80 error.
+get proxy http://115.159.48.84:80 error.
+get proxy http://183.165.132.132:8998 error.
+get proxy http://223.18.181.240:80 error.
+get proxy http://124.88.67.18:843 error.
+get proxy https://113.242.212.175:8998 error.
+get proxy https://222.87.124.138:8998 error.
+get proxy http://58.176.46.248:80 error.
+get proxy http://124.88.67.34:81 error.
+get proxy http://117.89.137.178:8998 error.
+get proxy http://218.191.247.51:80 error.
+get proxy http://124.88.67.32:81 error.
+get proxy http://61.160.213.231:138 error.
+get proxy https://27.159.124.121:8118 error.
+get proxy http://153.35.4.130:8118 error.
+get proxy http://122.72.32.88:80 error.
+get proxy http://106.43.114.63:80 error.
+get proxy https://115.237.19.232:8998 error.
+get proxy https://58.208.27.181:8118 error.
+get proxy https://36.48.185.217:8998 error.
+get proxy http://222.186.190.131:137 error.
+get proxy http://218.76.106.78:3128 error.
+get proxy http://60.183.73.166:8998 error.
+get proxy https://58.49.222.210:8998 error.
+get proxy http://120.77.169.244:8118 error.
+get proxy http://175.155.159.200:8118 error.
+get proxy http://27.27.90.197:9000 error.
+get proxy http://113.242.210.24:8998 error.
+get proxy https://49.85.16.3:8998 error.
+get proxy http://183.53.25.111:8998 error.
+get proxy http://60.167.135.189:8118 error.
+get proxy http://119.28.99.246:8998 error.
+get proxy http://222.220.6.8:8998 error.
+get proxy http://117.21.234.96:8080 error.
+get proxy https://182.37.79.242:8118 error.
+get proxy http://119.166.21.177:8888 error.
+get proxy https://119.1.78.168:80 error.
+get proxy http://120.24.63.205:80 error.
+get proxy http://211.140.151.220:80 error.
+get proxy https://125.117.48.8:8998 error.
+get proxy https://115.231.219.202:3128 error.
+get proxy http://183.95.80.165:8080 error.
+get proxy http://211.143.45.216:3128 error.
+get proxy http://222.82.222.242:9999 error.
+2017-07-29 18:03:22 zhihu_user : Beanbun worker 0 download https://www.zhihu.com/api/v4/members/lyounger/followees?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:03:23 zhihu_user : Connection refused
+
+Fatal error: Uncaught Exception: Connection refused in /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Lib/Client.php:66
+Stack trace:
+#0 /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Lib/Client.php(353): Beanbun\Lib\Client->getConnection('zhihu_userQueue...')
+#1 /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Queue/MemoryQueue.php(130): Beanbun\Lib\Client->bfIn('zhihu_userQueue...', '5393190668136c2...')
+#2 /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Queue/MemoryQueue.php(91): Beanbun\Queue\MemoryQueue->isQueued(Array)
+#3 /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Beanbun.php(350): Beanbun\Queue\MemoryQueue->add('https://www.zhi...', Array)
+#4 [internal function]: Beanbun\Beanbun->crawler()
+#5 /mnt/e/code/crawler/vendor/workerman/workerman/Events/Select.php(230): call_user_func_array(Array, Array)
+#6 /mnt/e/code/crawler/vendor/workerman/workerman/Events/Select.php(271): Workerman\Events\Select->tick()
+#7 /mnt/e/code/crawler/vendor/workerman/workerman/Worker.php(1571): Workerman\Events\Select->loop()
+#8 /mnt/e/code/crawle in /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Lib/Client.php on line 66
+2017-07-29 18:03:25 zhihu_user : Beanbun worker 1 download https://www.zhihu.com/api/v4/members/luckystar-71/followers?include=data%5B*%5D.following_count%2Cfollower_count&limit=20&offset=0 success.
+Array2017-07-29 18:03:26 zhihu_user : Connection refused
+
+Fatal error: Uncaught Exception: Connection refused in /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Lib/Client.php:66
+Stack trace:
+#0 /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Lib/Client.php(353): Beanbun\Lib\Client->getConnection('zhihu_userQueue...')
+#1 /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Queue/MemoryQueue.php(130): Beanbun\Lib\Client->bfIn('zhihu_userQueue...', '2fb5097895187e5...')
+#2 /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Queue/MemoryQueue.php(91): Beanbun\Queue\MemoryQueue->isQueued(Array)
+#3 /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Beanbun.php(350): Beanbun\Queue\MemoryQueue->add('https://www.zhi...', Array)
+#4 [internal function]: Beanbun\Beanbun->crawler()
+#5 /mnt/e/code/crawler/vendor/workerman/workerman/Events/Select.php(230): call_user_func_array(Array, Array)
+#6 /mnt/e/code/crawler/vendor/workerman/workerman/Events/Select.php(271): Workerman\Events\Select->tick()
+#7 /mnt/e/code/crawler/vendor/workerman/workerman/Worker.php(1571): Workerman\Events\Select->loop()
+#8 /mnt/e/code/crawle in /mnt/e/code/crawler/vendor/kiddyu/beanbun/src/Lib/Client.php on line 66
